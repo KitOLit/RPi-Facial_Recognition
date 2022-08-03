@@ -1,0 +1,6 @@
+face-recognition
+pickle5
+imutils
+
+opencv-python
+opencv-contrib-python
